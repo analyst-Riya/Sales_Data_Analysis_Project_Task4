@@ -165,7 +165,8 @@ DIVIDE(
 
 ## 📈 Dashboard
 The Dashboard overview:
-<img width="1601" height="899" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/d31ee49b-00f9-4bae-a90a-3fcd6767caa8" />
+<img width="1438" height="814" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/9f0d42d1-5f3d-4521-a982-f03803aaf510" />
+
 
 The executive dashboard includes:
 
