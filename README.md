@@ -1,4 +1,4 @@
-# 🛒 Superstore Sales Analysis — End to End Data Analytics Projec
+# 🛒 Superstore Sales Analysis — End to End Data Analytics Project
 ---
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
@@ -17,7 +17,7 @@
 
 ## 📌 Project Overview
 
-This is an end-to-end data analytics project built on the **Superstore Sales Dataset**. The project covers the complete data analytics pipeline — from raw data cleaning in Excel, importing into MySQL, building a star schema in Power BI, creating DAX measures, and finally delivering an executive-level interactive sales dashboard.
+This project is a part of my internship at **MainCrafts Technology**. This is an end-to-end data analytics project built on the **Superstore Sales Dataset**. The project covers the complete data analytics pipeline — from raw data cleaning in Excel, importing into MySQL, building a star schema in Power BI, creating DAX measures, and finally delivering an executive-level interactive sales dashboard.
 
 ---
 
